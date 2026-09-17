@@ -35,25 +35,25 @@ The dashboard combines KPI monitoring, trend analysis, service-quality analysis,
 
 A landing page providing navigation to the main analytical sections of the dashboard.
 
-![Home](Screenshots/home.png)
+![Home](Screenshots/Home.png)
 
 ### 📌 Overview
 
 Provides a high-level view of passenger experience and operational performance through key performance indicators and interactive filters.
 
-![Overview](Screenshots/overview.png)
+![Overview](Screenshots/Overview.png)
 
 ### 📈 Trends
 
 Analyzes relationships between passenger satisfaction, service quality, flight delays, flight distance, and customer characteristics.
 
-![Trends](Screenshots/trends.png)
+![Trends](Screenshots/Trends.png)
 
 ### 💡 Insights
 
 Uses Power BI analytical features such as Key Influencers and Decomposition Tree to explore factors associated with passenger satisfaction and dissatisfaction.
 
-![Insights](Screenshots/insights.png)
+![Insights](Screenshots/Insights.png)
 
 ### 👥 Passenger Segment Details
 
@@ -67,7 +67,7 @@ The page includes passenger demographics, travel characteristics, flight distanc
 
 Provides access to passenger-level records for detailed data exploration.
 
-![Data](Screenshots/data.png)
+![Data](Screenshots/Data.png)
 
 ## 🔐 Row-Level Security
 
